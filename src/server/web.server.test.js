@@ -1,5 +1,7 @@
 import WebServer from "./web.server";
 
+// A simple test for the server start up using Jest, thi will use Async promise to execute the tests.
+
 describe('Started', () => {
     let webServer = null
 

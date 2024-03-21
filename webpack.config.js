@@ -2,6 +2,8 @@ let path = require('path');
 let nodeExternals = require('webpack-node-externals');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
 
+// This is to set up the Webpack and config the program in where the entry points are and where the output will be.
+
 const moduleObj = {
     rules: [{
         test: /\.js$/,

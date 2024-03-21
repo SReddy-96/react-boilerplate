@@ -1,5 +1,7 @@
 const express = require('express')
 
+//  With the use of express, this sets the local server up and running. The try and catch is there to handle any errors.
+
 export default class WebServer {
     constructor() {
         this.app = express()
