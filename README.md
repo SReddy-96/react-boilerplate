@@ -29,12 +29,17 @@ A React boilerplate is an invaluable tool for quickly starting new projects. By 
 
 
 ## Setup 
-To clone the repository and start the project, follow these steps:
+To create a new project based on this template, follow these steps:
 
-Clone the repository:
+Create a new repository from the template:
+
+- Click on the "Use this template" button at the top of the repository page.
+- Follow the instructions to create a new repository based on this template.
+
+Clone the newly created repository:
 ```
-git clone https://github.com/SReddy-96/react-boilerplate.git
-cd react-boilerplate
+git clone <newly-created-repository-url>
+cd <new-repository-name>
 ```
 
 Clean the project (optional but recommended):
